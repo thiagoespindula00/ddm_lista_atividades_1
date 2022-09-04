@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrawApp</string>
+    <string name="sortear">Draw</string>
+    <string name="digite_um_intervalo">Enter a range</string>
+    <string name="minimo">Minimum</string>
+    <string name="maximo">Maximum</string>
+    <string name="digite_o_valor_minino">Enter the minimum value</string>
+    <string name="digite_o_valor_maximo">Enter the maximum value</string>
+    <string name="valor_minimo_nao_pode_ser_maior_que_valor_maximo">Minimum value cannot be greater than maximum value</string>
+</resources>

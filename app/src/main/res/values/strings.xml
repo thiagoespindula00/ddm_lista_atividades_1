@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SorteioApp</string>
+    <string name="sortear">Sortear</string>
+    <string name="digite_um_intervalo">Digite um intervalo</string>
+    <string name="minimo">Mínimo</string>
+    <string name="maximo">Máximo</string>
+    <string name="digite_o_valor_minino">Digite o valor mínimo</string>
+    <string name="digite_o_valor_maximo">Digite o valor máximo</string>
+    <string name="valor_minimo_nao_pode_ser_maior_que_valor_maximo">Valor mínimo não pode ser maior que o valor máximo</string>
+</resources>
