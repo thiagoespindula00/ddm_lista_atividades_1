@@ -1,0 +1,11 @@
+{
+    "translation" : {
+        "Mínimo" : "Mínimo",
+        "Máximo" : "Máximo",
+        "Sortear" : "Sortear",
+        "Atenção" : "Atenção",
+        "Informe o valor mínimo" : "Informe o valor mínimo",
+        "Informe o valor máximo" : "Informe o valor máximo",
+        "Valor mínimo não pode ser maior que o valor máximo" : "Valor mínimo não pode ser maior que o valor máximo"
+    }
+}
